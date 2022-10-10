@@ -2,7 +2,9 @@ wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix/zabbix-agent2_
 
 dpkg -i zabbix-agent2_6.0.0-1+ubuntu18.04_amd64.deb
 
+wget https://raw.githubusercontent.com/retr090/zabbix_agent/main/zabbix_agent2.conf 
 
+mv zabbix_agent2.conf /etc/zabbix/
 
 sudo usermod -aG docker zabbix
 
