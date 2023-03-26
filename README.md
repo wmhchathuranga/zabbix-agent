@@ -6,7 +6,7 @@ This bash script installs and configures the Zabbix Agent 2 on a Debian-based sy
 
 1. Clone the repository using the following command:
 ```bash
-git clone https://github.com/retr090/proxmox-template.git
+git clone https://github.com/retr090/zabbix-agent.git
 ```
 2. Navigate to the cloned directory:
 ```bash
