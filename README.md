@@ -1,6 +1,6 @@
 # Zabbix Agent 2 Installation Script
 
-This bash script installs and configures the Zabbix Agent 2 on a Debian-based system. The script prompts the user to enter the IP address or hostname of the Zabbix server and the hostname for the machine. It also installs the necessary packages, downloads and installs the Zabbix Agent 2 package, updates the Zabbix Agent 2 configuration file with the provided details, restarts the Zabbix Agent 2 service, and enables it to start on boot.
+This bash script installs and configures the Zabbix Agent 2 on a Debian-based system. The script prompts the user to enter the IP address or hostname of the Zabbix server and the hostname for the machine. It also installs the necessary packages downloads and installs the Zabbix Agent 2 package, updates the Zabbix Agent 2 configuration file with the provided details, restarts the Zabbix Agent 2 service and enables it to start on boot.
 
 # Usage
 
